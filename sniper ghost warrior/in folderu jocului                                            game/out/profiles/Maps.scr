@@ -1,0 +1,8 @@
+!include("Level.def")
+
+!LevelMapNet(s,s)
+
+
+LevelMapNet("data/mapsnet/level001mp/level001mp.exp","deathmatch")
+
+
