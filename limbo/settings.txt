@@ -1,0 +1,22 @@
+# User control settings #
+up      = "UP"
+down    = "DOWN"
+left    = "LEFT"
+right   = "RIGHT"
+action  = "RCONTROL"
+
+# Remove the '#' char from the 4 lines below to enable wsad controls
+#up2     = "W"
+#down2   = "S"
+#left2   = "A"
+#right2  = "D"
+action2 = "LCONTROL"
+
+# Controller Vibration #
+vibration = true
+
+# Limit the framerate to 30fps for a more framerate consistent experince on slow computers #
+use30hz = false
+
+# Use the 8bit color depth to slightly improve performance at the cost of image quality #
+use8bitrender = false

@@ -1,0 +1,126 @@
+Log: Log file open, 07/29/12 13:27:29
+Log: Virtual  memory allocation size:   0.00 MByte (0 Bytes)
+Log: Physical memory allocation size:   0.00 MByte (0 Bytes)
+Log: Int ResX set to 1366
+Log: Int ResY set to 768
+Log: Int PopulationAdjustment set to 4294967276
+Log: Int PopulationAdjustment set to 0
+Log: Switch AmbientOcclusion set to 1
+Log: Switch Bloom set to 1
+Log: Switch DepthOfField set to 1
+Log: Switch DepthOfField set to 0
+Log: Switch DepthOfField set to 1
+Log: Switch FlareOuts set to 1
+Log: Switch FlareOuts set to 0
+Log: Switch FlareOuts set to 1
+Log: Virtual  memory allocation size:   0.00 MByte (0 Bytes)
+Log: Physical memory allocation size:   0.00 MByte (0 Bytes)
+Log: PrepareMapChange is saving off level arid_p to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level arid_env to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_Firestone to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_Audio to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_BusStop to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_Mineshaft_Entrance to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level arid_turbinestation to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level arid_tunnel to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_Farmstead to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_Light to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_p_spawnbox to be loaded after transition to FakeEntry.
+Log: Int MaxAnisotropy set to 0
+Log: Switch bEnablePSSMShadows set to 0
+Log: Float FoliageDrawRadiusMultiplier set to 0.500000
+Log: Float FoliageDrawRadiusMultiplier set to 1.000000
+Log: Int TextureQuality set to 1
+Log: Float FoliageDrawRadiusMultiplier set to 0.500000
+Log: Int PopulationAdjustment set to 4294967276
+Log: Switch AmbientOcclusion set to 0
+Log: Switch AmbientOcclusion set to 1
+Log: Switch AmbientOcclusion set to 0
+Log: Switch AmbientOcclusion set to 1
+Log: Switch Bloom set to 0
+Log: Switch Bloom set to 1
+Log: Switch Bloom set to 0
+Log: Switch Bloom set to 1
+Log: Switch DepthOfField set to 0
+Log: Switch DepthOfField set to 1
+Log: Switch DepthOfField set to 0
+Log: Switch FlareOuts set to 0
+Log: Switch FlareOuts set to 1
+Log: Switch FlareOuts set to 0
+Log: Switch FlareOuts set to 1
+Log: Switch FlareOuts set to 0
+Log: PrepareMapChange is saving off level Arid_SkagGully_P to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level arid_skaggully_vista to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_SkagGully_Env to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_SkagGully_Audio to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_SkagGully_NineToes to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_Skaggully_Spawnbox to be loaded after transition to FakeEntry.
+Log: Switch bEnablePSSMShadows set to 1
+Log: Switch bEnablePSSMShadows set to 0
+Log: Switch bEnablePSSMShadows set to 1
+Log: Switch bEnablePSSMShadows set to 0
+Log: Float FoliageDrawRadiusMultiplier set to 1.000000
+Log: Float FoliageDrawRadiusMultiplier set to 0.500000
+Log: Float FoliageDrawRadiusMultiplier set to 1.000000
+Log: Float FoliageDrawRadiusMultiplier set to 0.500000
+Log: Int TextureQuality set to 0
+Log: Int TextureQuality set to 1
+Log: Int PopulationAdjustment set to 0
+Log: Int PopulationAdjustment set to 4294967276
+Log: Int PopulationAdjustment set to 4294967256
+Log: Int PopulationAdjustment set to 4294967276
+Log: Int PopulationAdjustment set to 0
+Log: Int PopulationAdjustment set to 4294967256
+Log: Int PopulationAdjustment set to 0
+Log: Switch AmbientOcclusion set to 0
+Log: Switch AmbientOcclusion set to 1
+Log: Switch AmbientOcclusion set to 0
+Log: Switch AmbientOcclusion set to 1
+Log: Switch AmbientOcclusion set to 0
+Log: Switch AmbientOcclusion set to 1
+Log: Switch Bloom set to 0
+Log: Switch Bloom set to 1
+Log: Switch DepthOfField set to 1
+Log: Switch DepthOfField set to 0
+Log: Switch DepthOfField set to 1
+Log: Switch DepthOfField set to 0
+Log: Switch FlareOuts set to 1
+Log: Switch FlareOuts set to 0
+Log: Switch FlareOuts set to 1
+Log: Switch FlareOuts set to 0
+Log: Switch FlareOuts set to 1
+Log: Float FoliageDrawRadiusMultiplier set to 1.000000
+Log: Float FoliageDrawRadiusMultiplier set to 0.500000
+Log: Int TextureQuality set to 0
+Log: PrepareMapChange is saving off level arid_p to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level arid_env to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_Firestone to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_Audio to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_BusStop to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_Mineshaft_Entrance to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level arid_turbinestation to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level arid_tunnel to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_Farmstead to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_Light to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_p_spawnbox to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_SkagGully_P to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level arid_skaggully_vista to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_SkagGully_Env to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_SkagGully_Audio to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_SkagGully_NineToes to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_Skaggully_Spawnbox to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level arid_p to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level arid_env to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_Firestone to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_Audio to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_BusStop to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_Mineshaft_Entrance to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level arid_turbinestation to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level arid_tunnel to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_Farmstead to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_Light to be loaded after transition to FakeEntry.
+Log: PrepareMapChange is saving off level Arid_p_spawnbox to be loaded after transition to FakeEntry.
+Log: Virtual  memory allocation size:   0.00 MByte (0 Bytes)
+Log: Physical memory allocation size:   0.00 MByte (0 Bytes)
+Log: Closing by request
+Log: Log file closed, 07/29/12 17:31:11

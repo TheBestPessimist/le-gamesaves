@@ -1,0 +1,1 @@
+in order for this to work, delete all the lines in the global git ignore file!!!!!!!!!

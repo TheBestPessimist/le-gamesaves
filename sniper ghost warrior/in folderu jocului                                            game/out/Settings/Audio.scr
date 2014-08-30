@@ -1,0 +1,24 @@
+!API(s)            // aDS3D, aOpenAL, aXACT, XAudio2, NoSound
+!MixFrequency(i)
+!Channels(i)
+!ForceSoftware()
+!ForceSoftwareEAX()
+!ForceNoFXes()
+!Quality3D(s)      // low, medium, high
+!UseEAX()
+!ExtraSounds01()
+!SpeechVolume(i)
+!FXVolume(i)
+!WaveVolume(i)
+!GlobalSettings(s)
+!DebugMode()
+
+API("XAudio2")
+MixFrequency(44100)
+Channels(32)
+Quality3D("high")
+FXVolume(37)
+WaveVolume(37)
+SpeechVolume(40)
+GlobalSettings("")
+
